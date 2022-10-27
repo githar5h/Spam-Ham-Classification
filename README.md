@@ -3,12 +3,12 @@ This simple python script sorts the data from a given database into spam or ham 
 
 ## Prerequisites
 1. Python3 along with the following modules:  
-   re  
-   nltk  
-   numpy  
-   pandas  
-   string  
-   matplotlib.pyplot  
+   • re  
+   • nltk  
+   • numpy  
+   • pandas  
+   • string  
+   • matplotlib.pyplot  
 2. Appropriate database
 
 ## Working
